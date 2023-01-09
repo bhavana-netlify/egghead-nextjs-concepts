@@ -1,0 +1,5 @@
+# site-1 netlify.toml
+[build]
+  command = "next build"
+  functions = "functions"
+  publish = ".next"
